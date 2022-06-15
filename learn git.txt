@@ -2,4 +2,5 @@ git ignore:
 git clone:
 git branch:
 git pull:
-git init:
+git log:
+
